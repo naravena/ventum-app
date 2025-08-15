@@ -47,7 +47,7 @@ Aplicación web completa para monitorizar y controlar en tiempo real la temperat
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/fancontrol-proxmox.git
+   git clone https://github.com/naravena/ventum-app.git
    cd fancontrol-proxmox
    ```
 
